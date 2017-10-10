@@ -15,7 +15,7 @@ const helper = {
     // var endYear=$("#endYear").val().trim();
     // var numResults=$("#recordNumber").val();
 
-     let queryURL = "http://api.nytimes.com/svc/search/v2/articlesearch.json?q="+search+"&api-key="+api;
+     let queryURL = "https://api.nytimes.com/svc/search/v2/articlesearch.json?q="+search+"&api-key="+api;
     //
     // if (startYear!==""){
     //     queryURL = queryURL+"&begin_date="+startYear+"0101";
