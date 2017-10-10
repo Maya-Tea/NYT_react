@@ -52,7 +52,7 @@ class Results extends React.Component {
               </div>
             )
           })}
-          <img alt="News" src="https://cdn.pixabay.com/photo/2013/07/12/17/43/newspaper-152320_960_720.png" width="30%" height="30%" onClick={this.saveItem}/>
+          <img alt="News" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/News_1.svg/701px-News_1.svg.png" width="30%" height="30%" onClick={this.saveItem}/>
         </div>
       </div>
     );
